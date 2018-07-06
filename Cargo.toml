@@ -1,0 +1,7 @@
+[package]
+name = "delta-v"
+version = "0.1.0"
+authors = ["jacknelson"]
+
+[dependencies]
+petgraph="^0.4.11"
